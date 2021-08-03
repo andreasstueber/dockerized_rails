@@ -1,5 +1,13 @@
 {
-  "name": "myapp",
+  "name": "ams_first_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "yarn": "^1.22.11"
+  },
+  "version": "1.0.0",
+  "description": "__",
+  "main": "index.js",
+  "repository": "git@github.com:andreasstueber/dockerized_rails.git",
+  "author": "andreas",
+  "license": "MIT"
 }
